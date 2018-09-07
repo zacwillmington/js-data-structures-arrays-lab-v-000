@@ -18,6 +18,6 @@ function destructivelyRemoveFirstDriver(){
     drivers.shift();
 }
 
-function appendDrive(name){
+function appendDriver(name){
     drivers.slice(-1, name);
 }
