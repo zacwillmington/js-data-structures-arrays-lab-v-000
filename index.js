@@ -7,6 +7,6 @@
       drivers.push(driverName);
  }
 
-function destructivlyPrependDriver(driverName){
+function destructivelyPrependDriver(driverName){
     drivers.unshift(driverName);
 }
