@@ -3,4 +3,4 @@
 
 
 
- const destructivelyAppendDriver = ...drivers.push('Ralph');;
+ const destructivelyAppendDriver = drivers.push('Ralph');
