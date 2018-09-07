@@ -4,5 +4,9 @@
 
 
  function destructivelyAppendDriver(driverName){
-      drivers.push('Ralph');
+      drivers.push(driverName);
  }
+
+function destructivlyAppendDriver(driverName){
+    drivers.shift(driverName);
+}
