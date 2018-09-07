@@ -22,6 +22,7 @@ function appendDriver(name){
 
     const addedDriver = drivers.splice(-1, name);
     console.log(name);
+    console.log(addedDriver)
     // console.log(drivers);
     // return drivers;
 }
